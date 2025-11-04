@@ -37,3 +37,9 @@
 - Understood contextual word embeddings
 
 - Implemented Transformer-based architecture in NLP
+
+  ### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
